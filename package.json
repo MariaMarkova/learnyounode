@@ -1,0 +1,23 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaMarkova/learnyounode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaMarkova/learnyounode/issues"
+  },
+  "homepage": "https://github.com/MariaMarkova/learnyounode#readme",
+  "dependencies": {
+    "bl": "^1.2.1",
+    "concat-stream": "^1.6.0"
+  }
+}
